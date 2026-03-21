@@ -1,0 +1,7 @@
+[package]
+name = "irig106-index"
+version = "0.0.1"
+edition = "2024"
+description = "High-speed indexing and query acceleration for massive IRIG 106 Chapter 10 data lakes."
+repository = "https://github.com/TelemetryWorks/irig106-index"
+license = "Apache-2.0"
